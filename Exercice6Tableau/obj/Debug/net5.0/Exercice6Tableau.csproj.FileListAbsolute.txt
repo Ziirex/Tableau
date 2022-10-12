@@ -1,0 +1,16 @@
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/bin/Debug/net5.0/Exercice6Tableau
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/bin/Debug/net5.0/Exercice6Tableau.deps.json
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/bin/Debug/net5.0/Exercice6Tableau.runtimeconfig.json
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/bin/Debug/net5.0/Exercice6Tableau.runtimeconfig.dev.json
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/bin/Debug/net5.0/Exercice6Tableau.dll
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/bin/Debug/net5.0/Exercice6Tableau.pdb
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/obj/Debug/net5.0/Exercice6Tableau.csproj.AssemblyReference.cache
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/obj/Debug/net5.0/Exercice6Tableau.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/obj/Debug/net5.0/Exercice6Tableau.AssemblyInfoInputs.cache
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/obj/Debug/net5.0/Exercice6Tableau.AssemblyInfo.cs
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/obj/Debug/net5.0/Exercice6Tableau.csproj.CoreCompileInputs.cache
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/obj/Debug/net5.0/Exercice6Tableau.dll
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/obj/Debug/net5.0/refint/Exercice6Tableau.dll
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/obj/Debug/net5.0/Exercice6Tableau.pdb
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/obj/Debug/net5.0/Exercice6Tableau.genruntimeconfig.cache
+/Users/nicolasferry/Projects/Exercice6Tableau/Exercice6Tableau/obj/Debug/net5.0/ref/Exercice6Tableau.dll
